@@ -25,7 +25,7 @@ rootReact.render(
           background: 'black',
           color: 'black',
           borderColor: 'black',
-          height: '2px',
+          height: '1px',
         }}
       />
     </div>
